@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sam Vonk
-- 👀 I’m interested in the art of programming
-- 🌱 I’m currently learning the basic syntax of Python and how to write my first projects (Data visualization)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning about data engineering and game development
+- 🌱 I’m currently learning the basic syntax of Python and how to write my first projects (Data visualization and Space Invadeers)
 - 📫 How to reach me on my email vonkie28@gmail.com
 
 <!---
